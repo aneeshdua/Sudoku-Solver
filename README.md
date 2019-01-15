@@ -43,6 +43,6 @@ The application takes input of the problem sudoku from a text file.
 The _ are replaced with . without any spaces and are left indentated. 
 Do make sure to save the test file in the same directory as that of the application.
 
-##Built With
+## Built With
 Visual Studio
 
